@@ -1,32 +1,33 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="Who are we?"
+      subtitle="Why did we create this web?"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>About Us</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Information needs to be shared. Ignorance is no excuse
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            We strongly  believe that information needs to be shared. 
+            If you have some time and willingness to do some research, you can find the information.
+            When you gather enough information, you are informed. 
+            When you are informed you get a direction!
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>The Story behind Vacancypool</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Back in 2010, the author was trying hard to find a job in Europe. The author's
+             background was nursing and had NMBI (Nurisng regulatroy body in Ireland) decision letter.
+             However, due to recession there was not enough recruitment. There were many
+             agents who pretend to be the saviours offering jobs in Ireland.. But there is a catch.. They need money!
+             Not 'little' money, but huge sum..
           </p>
           <quote-card />
           <h3>Still More Fake Content</h3>
