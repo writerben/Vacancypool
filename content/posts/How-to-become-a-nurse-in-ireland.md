@@ -2,7 +2,7 @@
 title: How to become a Nurse in Ireland?
 subtitle: How can I become a Nurse in Ireland- Very pragmatic view
 category:
-  - About Awake
+  - Nursing in Ireland
 author: Jinish Rajan
 date: 2020-02-05T22:09:18.069Z
 featureImage: /uploads/nursing-vp-blog-1.jpg
@@ -93,7 +93,7 @@ Please note- In Ireland no employer should charge money from any candidates.  No
 
 **You have a few options.** 
 
-#### Option- 1 : Contact hospitals directly. 
+#### Option- 1 : Contact hospitals directly.
 
 Check out their career pages and send in your CV. You can find jobs at the following websites
 
@@ -112,8 +112,6 @@ Check out their career pages and send in your CV. You can find jobs at the follo
 * [Beacon Hospital](https://www.beaconhospital.ie/careers/)
 * [Black Rock Clinic](https://www.blackrock-clinic.ie/about-blackrock-clinic/careers/)
 * [Bon Secours Hospital](https://www.bonsecours.ie/careers)
-
-
 
 #### Option 2: Contact HSE preffered agencies
 
