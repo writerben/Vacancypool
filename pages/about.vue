@@ -95,8 +95,13 @@
                 Blogging & Vogging 
               </p>
               <figure class="image is-1by1">
-              <img src="vacancypool/assets/uploads/daniel.jpg">
-                <opti-image width="500" height="500" />
+              
+                <opti-image
+                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/contact-person.jpg').srcSet
+                  "
+                   />
               </figure>
             </article>
           </div>
