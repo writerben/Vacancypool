@@ -95,7 +95,7 @@
                 Blogging & Vogging 
               </p>
               <figure class="image is-1by1">
-              <img src="~/assets/uploads/daniel.jpg">
+              <img src="vacancypool/assets/uploads/daniel.jpg">
                 <opti-image width="500" height="500" />
               </figure>
             </article>
