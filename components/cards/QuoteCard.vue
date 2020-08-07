@@ -2,11 +2,10 @@
   <div class="card quote-card">
     <div class="card-content">
       <p class="title">
-        “Always code as if the guy who ends up maintaining your code will be a
-        violent psychopath who knows where you live.”
+        “Opportunities don't happen. You create them.”
       </p>
       <p class="subtitle">
-        ~ Martin Golding
+        ~ Chris Grosser
       </p>
     </div>
     <footer class="card-footer">
