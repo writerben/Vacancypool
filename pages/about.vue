@@ -89,12 +89,13 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool stuff I do
+                Other Projects
               </p>
               <p class="subtitle">
-                Blogging & Vogging 
+                Irishvartha 
               </p>
               <figure class="image is-1by1">
+              <a href="https://www.irishvartha.com/">
               
                 <opti-image
                   :src="require('~/assets/uploads/contact-person.jpg').src"
@@ -108,10 +109,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Learning
+                Youtube
               </p>
               <p class="subtitle">
-                Coding & astropysics 
+                Irishkid 
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -121,10 +122,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Creativity
+                Music
               </p>
               <p class="subtitle">
-                Music creation & Irishvartha
+                Soundcloud
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
