@@ -11,7 +11,7 @@
           <h3>About Us</h3>
           <p>
             <strong>
-              Information needs to be shared. Ignorance is no excuse
+              Information needs to be shared. Ignorance is not an excuse
             </strong>
           </p>
           <p>
@@ -29,28 +29,49 @@
              agents who pretend to be the saviours offering jobs in Ireland.. But there is a catch.. They need money!
              Not 'little' money, but huge sum..
           </p>
+             
+           <p>
+            However, I kept on searching. I have contacted employers in the UK, Ireland,
+            Australia and Newzealand.  At last, I have got a reply from an employer
+            from Ireland.  They wrote to me that they are on the way to India
+            to do an interview. I have attended their interview, got selected,
+            rest everything went well. Within 6 months I came to Ireland.
+           </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <h3>Did I pay anything</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            The recruiter was a nursing home. As it was during the peak of recession, HSE did
+            not have any recruitement campaign. So I did pay for my expenses, such as flight
+            ticket, and cost of green card (1000 euro). No payment to any agencies. Not a single penny. 
           </p>
+          
+          <p>
+           I worked in the Nursing home for 2 years and then moved to a teaching hospital.
+           I worked as staff nurse in ICU, then became a Clinical Nurse Manager 1 (CNM1) followed by
+           CNM2 and CNM3. I currently work as the Quality Manager for Clinical Audit at the same 
+           Hospital.
+          </p>
+          <p>
+          During this period I completed a post graduate Diploma in Cardiovascular nursing, followed by a
+          Masters in Cardiovascular Nursing from Trinity College Dublin. 
+          I have completed several short term courses. Currently I am doing Masters in Healthcare Leadership
+          at Irish Management Insititue. 
+          I have also secured a seat for MBA at UCD Michael Smurfit Business school for the class of 2021.
+           </p>
+          <p>Why did I tell all of these? Just to show you what is possible. 
+           
+          </p>
+           
         </div>
 
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                Cool stuff I do
               </p>
               <p class="subtitle">
-                Sooo Cool
+                Blogging & Vogging 
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -60,10 +81,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                Learn & Understand
               </p>
               <p class="subtitle">
-                Just as cool
+                Coding & astropysics 
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -73,10 +94,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Creativity
               </p>
               <p class="subtitle">
-                that is all
+                Music creation & Irishvartha
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
