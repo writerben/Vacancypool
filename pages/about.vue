@@ -53,7 +53,7 @@
              Hospital.
           </p>
           
-          <h3>Did I studied anything?</h3>
+          <h3>Did I study anything?</h3>
           <p>
             During this period I completed a post graduate Diploma in Cardiovascular nursing, followed by a
             Masters in Cardiovascular Nursing from Trinity College Dublin. 
@@ -74,14 +74,14 @@
            
            <h2>What else I do?</h2>
            <p>
-           <OL>
+           <UL>
               <LI>I do write some blogs here and there.
-              <LI>I run a malayalam news paper for Irish Malayalees names Irishvartha.
-              <LI>I am very much interested in Astrophyscis and learning the complex concepts
+              <LI>I run a malayalam news paper for Irish Malayalees named Irishvartha.
+              <LI>
               <LI> I do occasional vlogs
               <LI>I support my 4 year old girl with her youtube channel Irishkid
               <LI>I play Piano and guitar if I get any spare time! I play guitar for the Choir Zamar
-              
+              </UL>
            </p>
         </div>
 
