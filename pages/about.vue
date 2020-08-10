@@ -98,9 +98,9 @@
               <a href="https://www.irishvartha.com/">
               
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/iv.png').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/iv.png').srcSet
                   "
                    />
               </figure>
@@ -118,9 +118,9 @@
                 <a href="https://www.youtube.com/channel/UCuJVdN9aF8P6IXc2PjXw2eA/">
               
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/ik.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/ik.jpg').srcSet
                   "
                    />
               </figure>
@@ -138,9 +138,9 @@
                 <a href="https://www.youtube.com/channel/UClnFym_0mdcKRU4_YILsnlw/">
               
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/mg.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/mg.jpg').srcSet
                   "
                    />
               </figure>
