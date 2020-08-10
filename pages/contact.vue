@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Connect with us</h3>
+          <h3>Connect with me</h3>
           <p>
             Due to the busy schedule I am not always available to individually respond to emails.
             However, you can follow me on major social media channels.
