@@ -109,26 +109,40 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Youtube
+                Youtube-Kids
               </p>
               <p class="subtitle">
                 Irishkid 
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <a href="https://www.youtube.com/channel/UCuJVdN9aF8P6IXc2PjXw2eA/">
+              
+                <opti-image
+                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/contact-person.jpg').srcSet
+                  "
+                   />
               </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Music
+               Malayalam Youtube
               </p>
               <p class="subtitle">
-                Soundcloud
+                Modern Gravity
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+                <a href="https://www.youtube.com/channel/UClnFym_0mdcKRU4_YILsnlw/">
+              
+                <opti-image
+                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/contact-person.jpg').srcSet
+                  "
+                   />
               </figure>
             </article>
           </div>
