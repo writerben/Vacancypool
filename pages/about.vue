@@ -89,10 +89,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Projects
+                Irish Vartha
               </p>
               <p class="subtitle">
-                Irishvartha 
+                Malayalam News Ireland 
               </p>
               <figure class="image is-1by1">
               <a href="https://www.irishvartha.com/">
@@ -109,10 +109,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Youtube-Kids
+                Irishkid
               </p>
               <p class="subtitle">
-                Irishkid 
+                Youtube for kids 
               </p>
               <figure class="image is-1by1">
                 <a href="https://www.youtube.com/channel/UCuJVdN9aF8P6IXc2PjXw2eA/">
@@ -129,10 +129,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-               Malayalam Youtube
+               ModernGravity
               </p>
               <p class="subtitle">
-                Modern Gravity
+                Youtube Malayalam
               </p>
               <figure class="image is-1by1">
                 <a href="https://www.youtube.com/channel/UClnFym_0mdcKRU4_YILsnlw/">
