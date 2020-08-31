@@ -169,3 +169,14 @@ export default {
   components: { QuoteCard }
 }
 </script>
+
+<script>
+export default {
+  head: {
+    title: 'About- Vacancypool',
+    meta: [
+      { hid: 'Vacancypool', name: 'About', content: 'Story of Vacancypool' }
+    ],
+  }
+}
+</script>
