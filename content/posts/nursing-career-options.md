@@ -4,7 +4,7 @@ subtitle: Whats next after nursing
 category:
   - Nursing in Ireland
 author: Jinish Rajan
-date: 2021-02-15T11:18:03.347Z
+date: 2021-02-15T11:22:15.549Z
 featureImage: /uploads/nurse.jpg
 ---
 
@@ -55,5 +55,3 @@ Gaining your BSc and registration with NMBI may be just the starting point for y
 * Nurse Prescriber.
 * Advanced Nurse Practitioner / Advanced Midwife Practitioner.
 * Psychiatric Nursing.
-
-<!--EndFragment-->
