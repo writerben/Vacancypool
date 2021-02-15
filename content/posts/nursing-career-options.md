@@ -7,7 +7,6 @@ author: Jinish Rajan
 date: 2021-02-15T11:18:03.347Z
 featureImage: /uploads/nurse.jpg
 ---
-<!--StartFragment-->
 
 Nursing is one of the profession wher you can branch out to 100's of specialtiy . Your graduation is the first rung on your career ladder as a nurse or midwife. It is the springboard for a career that provides a diversity of opportunity.\
 \
