@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="Example Contact Page"
+      subtitle="Please direct your questions/applications below"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -11,10 +11,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Get in Touch
               </p>
               <p class="subtitle">
-                What can I do for you?
+                We are here to help you!.
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -28,15 +28,15 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    Job Applications/General Query
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  If you are looking for a job in Ireland or UK, or have any
+                  general queries, please use the form to submit your query.
+                  Alternatevely you can email your
+                  <li>General queries to info@vacancypool.com </li>
+                  <li> Job applications to jobs@vacancypool.com </li>
                 </p>
               </div>
             </article>
