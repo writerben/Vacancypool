@@ -1,5 +1,4 @@
 <template>
-<meta name="viewport" content="width=device-width">
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <button
