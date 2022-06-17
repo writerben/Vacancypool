@@ -1,7 +1,7 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="VAbout Us"
+      title="About Us"
       subtitle="History of Vacancypool"
       image="/uploads/about-hero.jpg"
     ></site-hero>
