@@ -44,6 +44,39 @@
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
               <form name="contact" method="POST" data-netlify="true">
+              
+                    <style>
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
                 <p>
                    <label>Your Name: <input type="text" name="name" /></label>
                 </p>
@@ -54,19 +87,12 @@
                     <label>Your Role: <select name="role[]" multiple>
                       <option value="Nurse">Nurse</option>
                       <option value="Doctor">Doctor</option>
-                      <option value="Health Care Assistan">Health Care Assistant</option>
-                      <option value="Other">Other Healthcare</option>
+                      <option value="HealthCareAssistant">Health Care Assistant</option>
+                      <option value="Other">OtherHealthcare</option>
                     </select></label>
                 </p>
                  <p>
                     <label>Message: <textarea name="message"></textarea></label>
-                </p>
-  
-                <p>
-                  <label>
-                    <span>Add file:</span>
-                    <input name="file" type="file"/>
-                  </label>
                 </p>
                 <p>
                   <button type="submit">Send</button>
