@@ -1,93 +1,71 @@
 <template>
-  <div id="about-page" class="page-wrapper about-page content-page">
+  <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Connect?"
-      subtitle="Follow for important updates?"
-      image="/uploads/about-hero.jpg"
+      title="Contact Us"
+      subtitle="Example Contact Page"
+      image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
-        <div class="content">
-        
-        
-          <html>
-<body>
-  <div class="col-md-6 offset-md-3 mt-5">
-    <h1>Simple Job Application Form</h1>
-    <form accept-charset="UTF-8" action="https://getform.io/f/{your-form-endpoint-goes-here}" method="POST" enctype="multipart/form-data" target="_blank">
-      <div class="form-group">
-        <label for="exampleInputName">Full Name</label>
-        <input type="text" name="fullname" class="form-control" id="exampleInputName" placeholder="Enter your name and surname" required="required">
-      </div>
-      <div class="form-group">
-        <label for="exampleInputEmail1" required="required">Email address</label>
-        <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address">
-      </div>
-      <div class="form-group">
-        <label for="inputAddress">Address</label>
-        <input type="text" name="address" class="form-control" id="inputAddress" placeholder="1234 Main St">
-      </div>
-      <div class="form-row">
-        <div class="form-group col-md-6">
-          <label for="inputCity">City</label>
-          <input type="text" name="city" class="form-control" id="inputCity" placeholder="Istanbul">
+        <div class="tile is-ancestor">
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">
+                Hello!
+              </p>
+              <p class="subtitle">
+                What can I do for you?
+              </p>
+              <figure class="image is-1by1 ">
+                <opti-image
+                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/contact-person.jpg').srcSet
+                  "
+                />
+              </figure>
+              <br />
+              <div class="content">
+                <p>
+                  <strong>
+                    Edit this page in<code>/pages/contact.vue</code>to fit your
+                    needs.
+                  </strong>
+                </p>
+                <p>
+                  This form doesn't actually work but would be easy enough to
+                  slap an action on to have it post wherever you'd like. Or put
+                  the netlify attribute on it and have netlify handle all your
+                  form submissions...
+                </p>
+              </div>
+            </article>
+          </div>
+          <div class="tile is-parent is-8">
+            <article class="tile is-child box">
+              <contact-form />
+            </article>
+          </div>
         </div>
-        <div class="form-group col-md-2">
-          <label for="inputZip">Zip</label>
-          <input type="text" name="zip" class="form-control" id="inputZip" placeholder="34000">
-        </div>
-      </div>
-      <div class="form-group">
-        <label for="example-tel-input" class="col-2 col-form-label">Telephone</label>
-        <div class="col-10">
-          <input class="form-control" name="tel" type="tel" value="1-(555)-555-5555" id="example-tel-input">
-        </div>
-      </div>
-      <div class="form-group">
-        <label for="example-date-input" class="col-3 col-form-label">Start Date</label>
-        <div class="col-10">
-          <input class="form-control" name="starting_date" type="date" value="2020-02-01" id="example-date-input">
-        </div>
-      </div>
-      <div class="form-group mt-3">
-        <label class="mr-4">Upload your CV:</label>
-        <input type="file" name="file">
-      </div>
-      <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
-  </div>
-</body>
-
-</html>
-            
-            
-            
-            
-            
-          
-    
-          
       </template>
-
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
           Latest Posts
         </h3>
+        <!-- Latest Posts -->
         <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
   </div>
-  
-  
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
+import ContactForm from '~/components/ContactForm'
 export default {
   head() {
     return {
-      title: `About | ${this.$siteConfig.siteName}`
+      title: `Contact | ${this.$siteConfig.siteName}`
     }
   },
-  components: { QuoteCard }
+  components: { ContactForm }
 }
 </script>
