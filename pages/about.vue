@@ -1,7 +1,7 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Vacancypool: About US"
+      title="VAbout Us"
       subtitle="History of Vacancypool"
       image="/uploads/about-hero.jpg"
     ></site-hero>
@@ -23,7 +23,7 @@
 
           <h3>Little bit of History</h3>
           
-           <h2>WWhat do we Offer?</h2>
+           <h2>What do we Offer?</h2>
            <p>
            <UL>
               <LI>Find perfect candidates to empolyers and perfect employers to candidates.
