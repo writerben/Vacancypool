@@ -1,5 +1,5 @@
 <template>
-  <form>
+  <form action="mailto:info@vacancypool.com" method="post" enctype="text/plain">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
