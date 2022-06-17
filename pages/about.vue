@@ -1,24 +1,24 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Who are we?"
-      subtitle="Why did we create this web?"
+      title="Vacancypool: About US"
+      subtitle="History of Vacancypool"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
           <h3>About Us</h3>
+       
           <p>
-            <strong>
-              Information needs to be shared. Ignorance is not an excuse
-            </strong>
-          </p>
-          <p>
-            We strongly  believe that information needs to be shared. 
-            If you have some time and willingness to do some research, you can find the information.
-            When you gather enough information, you are informed. 
-            When you are informed you get a direction!
+            At Vacancypool, we empower all our candidates to find their job to
+          build their future careers in UK and Ireland. We have a dedicated
+          team to assist the candidates starting from their initial interview 
+        through their arrival at the new job. All our team members have a 
+        healthcare background and have the expertise to advise you to 
+        pursue your dream career. We offer solid support, in-depth 
+        knowledge, and a personal touch.
+
           </p>
 
           <h3>Little bit of History</h3>
