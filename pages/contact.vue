@@ -4,46 +4,44 @@
       title="Connect?"
       subtitle="Follow for important updates?"
       image="/uploads/about-hero.jpg"
-    ></site-hero>
+    >
+    </site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
         
         
-        <form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="Nurse">Nurse</option>
-      <option value="Doctor">Doctor</option>
-      <option value="Health Care Assistan">Health Care Assistant</option>
-      <option value="Other">Other Healthcare</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
+            <form name="contact" method="POST" data-netlify="true">
+                <p>
+                   <label>Your Name: <input type="text" name="name" /></label>
+                </p>
+                <p>
+                   <label>Your Email: <input type="email" name="email" /></label>
+                </p>
+                <p>
+                    <label>Your Role: <select name="role[]" multiple>
+                      <option value="Nurse">Nurse</option>
+                      <option value="Doctor">Doctor</option>
+                      <option value="Health Care Assistan">Health Care Assistant</option>
+                      <option value="Other">Other Healthcare</option>
+                    </select></label>
+                </p>
+                 <p>
+                    <label>Message: <textarea name="message"></textarea></label>
+                </p>
   
-  <p>
-    <label>
-      <span>Add file:</span>
-      <input name="file" type="file"/>
-    </label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+                <p>
+                  <label>
+                    <span>Add file:</span>
+                    <input name="file" type="file"/>
+                  </label>
+                </p>
+                <p>
+                  <button type="submit">Send</button>
+                </p>
+          </form>
 
-            
-          
-    
-          
+          </div>  
       </template>
 
       <template v-slot:sidebar>
