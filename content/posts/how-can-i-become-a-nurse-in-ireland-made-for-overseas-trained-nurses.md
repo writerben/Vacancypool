@@ -3,7 +3,7 @@ title: How can I become a nurse in Ireland (Made for overseas trained nurses)
 subtitle: Pragmatic approach of becoming a nurse in Ireland
 category:
   - Nursing in Ireland
-author: Jinish Rajan
+author: Vacancypool
 date: 2020-04-07T14:40:45.061Z
 featureImage: /uploads/nursing-vp-blog-1.jpg
 ---
