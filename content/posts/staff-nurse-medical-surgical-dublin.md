@@ -5,7 +5,7 @@ category:
   - Jobs
 author: Vacancypool
 date: 2022-06-18T01:08:32.783Z
-featureImage: /uploads/rn.jpg
+featureImage: /uploads/nursevacancy.jpg
 ---
 Vacancypool are recruiting on behalf of our client who is looking for a Staff Nurse for the Medical/ Surgical wards. Salary is €31,109 - €47,931 + DOE & other benefits include - Pension scheme, sick leave & Mat leave (2 years service) & Hours can be worked Part-time, or Full-time/ Permanent Contracts.
 
