@@ -3,7 +3,7 @@ title: Top tips to Pass RCSI aptitude theory test-Part 1
 subtitle: Practical Tips for Nursing Aptitude Theory Tests
 category:
   - NMBI registration
-author: Jinish Rajan
+author: Vacancypool
 date: 2020-08-07T08:00:33.666Z
 featureImage: /uploads/overseas-test-desktop-banner.jpg
 ---
