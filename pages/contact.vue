@@ -44,10 +44,10 @@
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
             
-              <p>
+             
                 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCfQW35T1uliMOroXXdbAKg02dGgUdUx4YMMt9TD8kKWVZKw/viewform?embedded=true"
                 width="640" height="4000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-              </p>
+             
             </article>
           </div>
         </div>
