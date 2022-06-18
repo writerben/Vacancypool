@@ -3,7 +3,7 @@ title: Whats next after Nursing Graduation?
 subtitle: What are some of the suggested career plans after nursing?
 category:
   - Nursing in Ireland
-author: Admin
+author: Vacancypool
 date: 2022-06-18T00:35:53.427Z
 featureImage: /uploads/nurse.jpg
 ---
