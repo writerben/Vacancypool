@@ -3,7 +3,7 @@ title: Overseas Nursing Adaptation Ireland
 subtitle: Adaptation route to become a nurse in Ireland
 category:
   - NMBI registration
-author: Jinish Rajan
+author: Vacancypool
 date: 2020-08-07T08:15:35.899Z
 featureImage: /uploads/ada.jpg
 ---
