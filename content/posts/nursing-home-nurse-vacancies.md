@@ -7,7 +7,7 @@ author: Vacancypool
 date: 2022-06-18T01:40:47.158Z
 featureImage: /uploads/irelandnurse.jpg
 ---
-["< a href="mailto:jobs@vacancypool.com">jobs@vacancypool.com< /a>"](<"< a href="mailto:jobs@vacancypool.com">jobs@vacancypool.com< /a>">)[jobs@vacancypool.com](jobs@vacancypool.com)An excellent expanding Nursing Home Group is recruiting Staff Nurses in Dublin, Cork, Galway and Limerick
+\["< a href="mailto:jobs@vacancypool.com">jobs@vacancypool.com< /a>"](<"< a href="mailto:jobs@vacancypool.com">jobs@vacancypool.com< /a>">)[jobs@vacancypool.com](jobs@vacancypool.com)An excellent expanding Nursing Home Group is recruiting Staff Nurses in Dublin, Cork, Galway and Limerick
 
 Our Client, a leading organization in the care setting is well-funded and dedicated to staff training and development in gerontology and residential care for the elderly. They are looking to recruit staff nurses to expand their services. Currenlty we have numbe of vacancies in Dublin, Cork, Limerick, and Galway
 
@@ -47,6 +47,6 @@ Schedule:
 
 * 12 hour shift
 
-A["< a href="mailto:jobs@vacancypool.com">John< ](<"< a href="mailto:jobs@vacancypool.com">John< /a>">)y["](<"< a href="mailto:jobs@vacancypool.com">email< /a>">)
 
-For an immediate interview please email your CV to jobs@vacancypool.com
+
+For an immediate interview please email your CV to [jobs@vacancypool.com](jobs@vacancypool.com)
