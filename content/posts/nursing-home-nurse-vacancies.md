@@ -9,7 +9,7 @@ featureImage: /uploads/irelandnurse.jpg
 ---
 An excellent expanding Nursing Home Group is recruiting Staff Nurses in Dublin, Cork, Galway and Limerick
 
-Tour Client, a leading organization in the care setting is well-funded and dedicated to staff training and development in gerontology and residential care for the elderly. They are looking to recruit staff nurses to expand their services. Currenlty we have numbe of vacancies in Dublin, Cork, Limerick, and Galway
+Our Client, a leading organization in the care setting is well-funded and dedicated to staff training and development in gerontology and residential care for the elderly. They are looking to recruit staff nurses to expand their services. Currenlty we have numbe of vacancies in Dublin, Cork, Limerick, and Galway
 
 
 
