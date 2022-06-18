@@ -15,11 +15,6 @@
         <posts-grid />
       </template>
       
-      <template v-slot:default>
-        <div class="post-wrapper">
-      </template>
-      
-      
       <template v-slot:sidebar>
         Nothing here
       </template>
