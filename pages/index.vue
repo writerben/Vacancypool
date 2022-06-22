@@ -10,6 +10,38 @@
       </button>
     </site-hero>
     <main-section theme="one-column">
+    
+    
+    
+    <div class="w-full mb-20">
+      <div class="text-center" v-if="!jobs.length">
+        <logo class="mx-auto pr-12" />
+        <p class="status-text">Loading...</p>
+      </div>
+      <p v-else-if="$fetchState.error" class="status-text">
+        Kindly refresh to see the latest jobs
+      </p>
+      <div v-else>
+        <job-card-list class="mb-20" :jobs="jobs" />
+        <div class="mb-28 text-center">
+          <nuxt-link
+            style="border: 1.5px solid #1f9e98; color: #1f9e98"
+            class="rounded-lg px-9 py-6 inline-block"
+            to="/jobs"
+          >
+            <div class="flex">
+              <p class="mr-2 font-medium">Explore more jobs</p>
+              <img src="~/assets/images/right_icon.svg" alt="proceed" />
+            </div>
+          </nuxt-link>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+    
+    
+    
       <template v-slot:default>
         <!-- All Posts -->
         <posts-grid />
