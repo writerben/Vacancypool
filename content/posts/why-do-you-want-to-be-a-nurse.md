@@ -33,8 +33,6 @@ The following career-enhancing options are available to you as a nurse:
 
 > **Currently Vacancypool is recruiting Nurses from all specialities, 100% Free Recruitnment. Hurry your CV's to jobs@vacancypool.com. We invite applicants with Decision letters/and or passed OET/IELTS.**
 
-
-
 ![Nurse Readins report](/uploads/nurse.jpg "Nurse in Ireland")
 
 Additionally, you should be aware that Ireland has four nursing specialties: general, intellectual disability, children's general (integrated), and psychiatry. There are additional positions you could hold in addition to staff nurse. Why not think about working in research or teaching, for instance?
